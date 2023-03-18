@@ -19,7 +19,7 @@ The classifyTriangle function includes input validation to ensure that all input
 
 The function also includes logic to determine whether the input values form a valid triangle.
 
-{!{build status of master}(https://app.circleci.com/pipelines/github/Ameya172/Triangle567/4/workflows/f4322ac0-e823-4ddf-8e0e-d1829607315f/jobs/3/steps)](https://app.circleci.com/pipelines/github/Ameya172/Triangle567)
+[![Ameya172](https://circleci.com/gh/Ameya172/SSW567.svg?style=svg)](https://app.circleci.com/pipelines/github/Ameya172/SSW567?branch=main&filter=all)
 =======
 
 >>>>>>> origin/main
